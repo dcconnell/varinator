@@ -3,7 +3,13 @@
   "displayName": "Varinator",
   "description": "Syntax highlights C# variables based on their inferred data type using OmniSharp/Roslyn for deep type inference.",
   "version": "0.1.0",
-  "publisher": "varinator",
+  "publisher": "YOUR-PUBLISHER-NAME",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/varinator"
+  },
+  "icon": "images/icon.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
   },
